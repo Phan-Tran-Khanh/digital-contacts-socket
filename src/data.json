@@ -1,0 +1,28 @@
+{
+    "001": 
+    {
+        "fullname": "Nguyen Duc Manh",
+        "phone": "0123456789",
+        "email": "20120019@student.hcmus.edu.vn",
+        "small": "data/s/001.jpg",
+        "big": "data/b/001.jpg"
+    },
+
+    "002": 
+    {
+        "fullname": "Tran Bao Anh",
+        "phone": "0456789123",
+        "email": "20120250@student.hcmus.edu.vn",
+        "small": "data/s/002.jpg",
+        "big": "data/b/002.jpg"
+    },
+
+    "003": 
+    {
+        "fullname": "Phan Tran Khanh",
+        "phone": "0789123456",
+        "email": "201203040@student.hcmus.edu.vn",
+        "small": "data/s/003.jpg",
+        "big": "data/b/003.jpg"
+    }
+}
